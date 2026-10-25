@@ -1,0 +1,4 @@
+original,cleaned,clips,reason
+A- major,Ab major,1,music21 flat sign '-' -> 'b'
+B- major,Bb major,1,music21 flat sign '-' -> 'b'
+C# major,Db major,3,enharmonic spelling merged

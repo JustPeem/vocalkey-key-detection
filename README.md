@@ -41,7 +41,9 @@ The test set is small (one clip = 2.5 % accuracy).
 VocalKey_project.ipynb        the whole project, step by step
 data/raw/                     key_chroma_dataset_172.csv (main), chroma_features_12_columns.csv, key_labels_172.csv
 data/processed/               vocalkey_clean.csv, cleaning_log.csv
-vocadito/                     test set: Audio/*.wav, vocadito_metadata.csv, Annotations/
+vocadito/                     test set: Audio/*.wav, vocadito_metadata.csv, 
+ACAPELLA/                     Audio/*.wav
+Annotations/
 requirements.txt
 ```
 
